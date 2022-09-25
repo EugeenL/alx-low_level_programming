@@ -1,0 +1,3 @@
+#!/bin/bash
+git config --global user.eugeenchimwani6@gmail.com
+
