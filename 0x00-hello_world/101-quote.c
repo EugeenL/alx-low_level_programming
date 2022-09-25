@@ -26,3 +26,8 @@ for (a < b;;)
     printf("%d\n", a++);
 }
 }
+
+
+git add .
+git commit -m "master"
+git push origin master
